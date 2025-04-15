@@ -20,7 +20,8 @@
 
 Here’s a sample output from the model after detecting parking spaces:
 
-![Detection Result](https://github.com/yourusername/carparkfinder/raw/main/samples/detection-example.png)
+![Detection Result](https://github.com/R4ffaell/Parking-Space-Detection/blob/main/Car%20detection.png?raw=true)
+
 
 
 ---
