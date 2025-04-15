@@ -3,8 +3,8 @@
 
 **CarParkFinder** is a real-time parking space detection system utilizing **YOLOv8** for detecting available and occupied parking spots. This system optimizes parking lot management and is perfect for smart cities 🌆. Built on computer vision principles, the system leverages state-of-the-art detection algorithms to identify parking spaces using a dataset trained via Roboflow. With a high mAP score of **97.7%** 🎯, CarParkFinder ensures accurate and reliable detection.
 
-![CarParkFinder](https://github.com/yourusername/carparkfinder/raw/main/samples/project-image.png)
 
+![Detection Result](https://github.com/R4ffaell/Parking-Space-Detection/blob/main/Car%20Detection%202.png?raw=true)
 ---
 
 ## 🧠 Features
@@ -132,11 +132,7 @@ Deploy locally for single parking lot management, or scale it to cloud-based sol
 
 ---
 
-## 📄 License
 
-This project is licensed under the **Apache 2.0 License** — see the LICENSE file for details 📜.
-
----
 
 ## 🙌 Acknowledgements
 
